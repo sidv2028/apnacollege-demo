@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my fist Git Repository
+This is my first Git Repository
+Author - Sidharth
